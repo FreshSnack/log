@@ -1,0 +1,8 @@
+rootProject.name = 'log'
+include 'log4j'
+include 'slf4j'
+include 'log4j2'
+include 'jdk-logging'
+include 'commons-logging'
+include 'logback'
+
